@@ -5,7 +5,7 @@ import controller.*;
 
 /**
  * 
- * The program is for vehicle inspections. Users enter their registration 
+ * The program is used for vehicle inspections. Users enter their registration 
  * number and the program test the different parts of the vehicle. When the 
  * inspection is done the user is asked whether they wish to pay by card or 
  * cash. When the user has paid they be given a receipt.
