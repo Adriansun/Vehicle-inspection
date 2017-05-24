@@ -1,5 +1,5 @@
 # Vehicle-inspection
-03 - Java MVC model - Vehicle inspection <br />
+03 - Java, MVC - Vehicle inspection <br />
 Språk: Java.<br />
 Modell: MVC.
 
